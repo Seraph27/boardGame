@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\boardGame\boardGame\bin\Debug\boardGame.exe.config
+C:\Users\Lenovo\Desktop\boardGame\boardGame\bin\Debug\boardGame.exe
+C:\Users\Lenovo\Desktop\boardGame\boardGame\bin\Debug\boardGame.pdb
+C:\Users\Lenovo\Desktop\boardGame\boardGame\obj\Debug\boardGame.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\boardGame\boardGame\obj\Debug\boardGame.othForm.resources
+C:\Users\Lenovo\Desktop\boardGame\boardGame\obj\Debug\boardGame.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\boardGame\boardGame\obj\Debug\boardGame.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\boardGame\boardGame\obj\Debug\boardGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\boardGame\boardGame\obj\Debug\boardGame.exe
+C:\Users\Lenovo\Desktop\boardGame\boardGame\obj\Debug\boardGame.pdb
